@@ -1,0 +1,67 @@
+body{
+    background-image: url("./images/bg.jpg");
+    background-size: cover;
+}
+
+
+.h1{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    color: brown;
+    font-size: xx-large;
+   
+}
+.puces{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    font-size: x-large;
+    padding-left: 5px;
+    
+}
+
+.puces:hover{
+    color: blue;
+}
+.accueil{
+    color: white;
+    text-align: center;
+}
+.text-center{
+    color: white;
+}
+.nos-menus{
+    color: white;
+    text-align: center;
+}
+.img{
+width: 60%;
+padding-left: 22%;
+}
+.h2{
+    display: flex;
+    text-align: center;
+}
+.text-center{
+    display: flex;
+    text-align: center;
+    padding-left: 22%;
+    padding-right: 22%;
+}
+form{
+    
+    padding-left: 40%;
+   color: white;
+}
+
+.contact{
+   background-image:  url("./images/contact.jpg");
+  background-size: cover;
+}  
+a{
+    color: white;
+}
+a:hover {
+    background-color: gold;
+  }
